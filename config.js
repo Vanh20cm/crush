@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Anh có điều này muốn hỏi Em, Em nhớ phải trả lời thật lòng nha`,
     btnIntro: 'Dạ hehe :)))',
     title: 'M thích t đk ? ',
-    desc: 'Thoát ra làm tó :((( ',
+    desc: 'Thoát ra làm ny t :33 ',
     btnYes: 'Có nè :33',
     btnNo: 'M mơ hả ??? ',
     question:'Nói cho t biết đi vì sao m thích t 😊😊',
